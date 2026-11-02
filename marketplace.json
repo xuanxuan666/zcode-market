@@ -1,0 +1,19 @@
+{
+  "name": "coldcoffee-market",
+  "owner": { "name": "coldcoffee-workbench" },
+  "plugins": [
+    {
+      "name": "fofa-mapper",
+      "source": "./fofa-mapper",
+      "version": "0.1.0",
+      "description": "FOFA asset mapping via the official API: search assets, aggregate hosts, and stats pivots for authorized attack-surface discovery",
+      "displayName": "FOFA Mapper",
+      "displayName_i18n": { "zh-CN": "FOFA 资产测绘" },
+      "description_i18n": {
+        "zh-CN": "基于 FOFA 官方 API 的资产测绘：资产搜索、主机聚合与组成统计，仅限授权安全工作使用"
+      },
+      "category": "developer-tools",
+      "author": { "name": "coldcoffee-workbench" }
+    }
+  ]
+}

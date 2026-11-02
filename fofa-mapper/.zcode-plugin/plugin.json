@@ -1,0 +1,9 @@
+{
+  "name": "fofa-mapper",
+  "version": "0.1.0",
+  "description": "FOFA asset mapping via the official API: search assets, aggregate hosts, and stats pivots for authorized attack-surface discovery",
+  "author": { "name": "coldcoffee-workbench" },
+  "skills": "./skills",
+  "commands": "./commands",
+  "mcpServers": "./.mcp.json"
+}
